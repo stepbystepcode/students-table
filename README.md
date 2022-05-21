@@ -1,5 +1,5 @@
-# students
-
+# students-table
+An easy way to design a classmate table with portrait.
 ## Project setup
 ```
 npm install
@@ -14,11 +14,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
