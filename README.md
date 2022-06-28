@@ -1,5 +1,5 @@
 <p align="center"><a href="#"><img width="100" src="https://img.gejiba.com/images/9698e352c0c6cca35a8821c8a8131873.png" alt="user logo"></a></p>
-<h2 align="center">students-table</h2>
+<h2 align="center">Students Table</h2>
 <p align="center">
   <a href="https://raw.githubusercontent.com/stepbystepcode/students-table/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="LICENSE"></a>
   <a href="https://github.com/topics/cpp"><img src="https://img.shields.io/badge/language-Vue-informational?style=flat&logoColor=white&color=4FC08D" alt="languange"></a>
