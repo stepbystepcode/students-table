@@ -13,7 +13,7 @@ This program is designed to help those who want to quickly generate student seat
 I'm a Vue beginner and the code can be problematic. If you find a mistake, you can write an issue [here](https://github.com/stepbystepcode/students-table/issues/new) and I'll fix it as soon as I can.
 ## Download Relase
 
-You can get it from the relase:https://github.com/stepbystepcode/cpp-primer-learning/releases/tag/1.0
+You can get it from the relase:https://github.com/stepbystepcode/students-table/releases
 
 ## Video Tutorial
 
